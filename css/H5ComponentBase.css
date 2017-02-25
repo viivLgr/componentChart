@@ -1,0 +1,7 @@
+/* 基本的图文组件 */
+
+.h5_component {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+}
